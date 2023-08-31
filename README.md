@@ -1,3 +1,8 @@
 # test2
-- Demo class on git repositories
-- Change made from remote repo
+- Creating repository
+- Setup the repository in remote (Your computer)
+- Pull the repository
+- Develop
+- Stage changes
+- Commit with message
+- Push
